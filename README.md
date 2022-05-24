@@ -48,14 +48,14 @@ If you would like to know more about me, contact me!
 
 # *My projects* 📌
 
-**AkademIT**
+# **AkademIT**
 ![home](/images/Home.jpeg)
 ![admin](/images/admin.jpeg)
 ![hacerreseña](/images/hacerreseña.jpeg)
 ![mp](/images/mp.jpeg)
 
 
-**Countries Info Searcher**
+# **Countries Info Searcher**
 
 ![landing](/images/landing.jpeg)
 ![home](/images/2home.jpeg)
