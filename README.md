@@ -49,10 +49,10 @@ If you would like to know more about me, contact me!
 # *My projects* 📌
 
 **AkademIT**
-![home](/Agustin-Agis/images/Home.jpeg)
-![admin](/Agustin-Agis/images/admin.jpeg)
-![hacerreseña](/Agustin-Agis/images/hacerreseña.jpeg)
-![mp](/Agustin-Agis/images/mp.jpeg)
+![home](/images/Home.jpeg)
+![admin](/images/admin.jpeg)
+![hacerreseña](/images/hacerreseña.jpeg)
+![mp](/images/mp.jpeg)
 
 
 **Countries Info Searcher**
