@@ -57,9 +57,9 @@ If you would like to know more about me, contact me!
 
 **Countries Info Searcher**
 
-![landing](/Agustin-Agis/images/landing.jpeg)
-![home](/Agustin-Agis/images/2home.jpeg)
-![activities](/Agustin-Agis/images/Activities.jpeg)
-![activitycreator](/Agustin-Agis/images/Creator.jpeg)
+![landing](/images/landing.jpeg)
+![home](/images/2home.jpeg)
+![activities](/images/Activities.jpeg)
+![activitycreator](/images/Creator.jpeg)
 
 
