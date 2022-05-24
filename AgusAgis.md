@@ -50,16 +50,16 @@ If you would like to know more about me, contact me!
 
 **AkademIT**
 ![home](/Agustin-Agis/images/Home.jpeg)
-![home](/Agustin-Agis/images/admin.jpeg)
-![home](/Agustin-Agis/images/hacerreseña.jpeg)
-![home](/Agustin-Agis/images/mp.jpeg)
+![admin](/Agustin-Agis/images/admin.jpeg)
+![hacerreseña](/Agustin-Agis/images/hacerreseña.jpeg)
+![mp](/Agustin-Agis/images/mp.jpeg)
 
 
 **Countries Info Searcher**
 
-![home](/Agustin-Agis/images/landing.jpeg)
+![landing](/Agustin-Agis/images/landing.jpeg)
 ![home](/Agustin-Agis/images/2home.jpeg)
-![home](/Agustin-Agis/images/Activities.jpeg)
-![home](/Agustin-Agis/images/Creator.jpeg)
+![activities](/Agustin-Agis/images/Activities.jpeg)
+![activitycreator](/Agustin-Agis/images/Creator.jpeg)
 
 
